@@ -3,10 +3,10 @@
 .settings/*
 /.idea
 /bin
-*/target/
+*/target/**
 
 # Package Files #
 *.jar
 *.war
 *.ear
-*/target/
+*/target/**
