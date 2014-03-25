@@ -1,0 +1,12 @@
+*.class
+.project
+.settings/*
+/.idea
+/bin
+*/target/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*/target/
