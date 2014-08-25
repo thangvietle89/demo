@@ -5,7 +5,6 @@
 /bin
 /target
 **/target/
-/testGitSubModule
 
 # Package Files #
 *.jar
